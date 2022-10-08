@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "865751385618",
+    "project_id": "amaterasu-d79d7",
+    "storage_bucket": "amaterasu-d79d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865751385618:android:4e48bc910d395d5e84facb",
+        "android_client_info": {
+          "package_name": "com.example.amaterasu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865751385618-17sp84a7l75e814idv54qj9sql653cg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1-lleuM6NUKqI01uXyEBfBnjcNNVYM9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865751385618-17sp84a7l75e814idv54qj9sql653cg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
